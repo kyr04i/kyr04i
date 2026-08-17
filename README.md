@@ -6,7 +6,7 @@
 
 #### Education
 
-- B.S. Student @ **Vietnam National University Ho Chi Minh City University of Information Technology** - Cyber Security (2022.09 ~ 2026.03)
+- B.S. Student @ **VNUHCMC University of Information Technology** - Cyber Security (2022.09 ~ 2026.03)
 
 #### Vulnerability Report
 
