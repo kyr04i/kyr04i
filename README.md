@@ -1,7 +1,5 @@
 ## Duy Nguyen (@kyr04i)
 
-- My current research interest is focused on vulnerability research
-
 #### Work
 
 - Member @ **Qrious Secure**
